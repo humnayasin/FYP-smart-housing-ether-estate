@@ -1,0 +1,31 @@
+{
+    "name" : "Beautiful House DHA Lahore",
+    "description": "Luxury NICE House",
+    "image" : "https://ipfs.io/ipfs/QmWLTPnq7mj1h3Rouyw4h5k5SXveyhgCzaNYJNuD7k6EzN?filename=nft1.jpg",
+    "attributes": [
+        {
+            "address": "Address",
+            "value": "DHA LAHORE PHASE1"
+        },
+        {
+            "purchase_price": "Purchase Price",
+            "value": ""
+        },
+        {
+            "beds": "Bed Rooms",
+            "value": 5
+        },
+        {
+            "baths": "Bathrooms",
+            "value": 12
+        },
+        {
+            "square_feet": "Square Feet",
+            "value": 7241
+        },
+        {
+            "year_built": "Year Built",
+            "value": 1885
+        }
+    ]
+}

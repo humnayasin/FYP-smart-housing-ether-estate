@@ -1,0 +1,18 @@
+.cardbox{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 2rem;
+    justify-content: center;
+    
+}
+
+h1{
+        text-align: center;
+        color: rgb(203, 125, 203);    
+
+}
+a{
+    color: white;
+    text-decoration: none;
+}
